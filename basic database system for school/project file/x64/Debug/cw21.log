@@ -1,0 +1,11 @@
+﻿  account.cpp
+  people.cpp
+C:\Users\Asus\source\repos\cw2\cw21_translated\cw21\people.cpp(93,6): warning C4101: 'account': unreferenced local variable
+C:\Users\Asus\source\repos\cw2\cw21_translated\cw21\people.cpp(103,6): warning C4101: 'id': unreferenced local variable
+C:\Users\Asus\source\repos\cw2\cw21_translated\cw21\people.cpp(193,6): warning C4101: 'id': unreferenced local variable
+C:\Users\Asus\source\repos\cw2\cw21_translated\cw21\people.cpp(234,6): warning C4101: 'id': unreferenced local variable
+C:\Users\Asus\source\repos\cw2\cw21_translated\cw21\people.cpp(615,6): warning C4101: 'id': unreferenced local variable
+C:\Users\Asus\source\repos\cw2\cw21_translated\cw21\people.cpp(716,10): warning C4101: 'as': unreferenced local variable
+  Generating Code...
+C:\Users\Asus\source\repos\cw2\cw21_translated\cw21\people.cpp(970): warning C4715: 'People_Manager::pass_au': not all control paths return a value
+  cw21.vcxproj -> C:\Users\Asus\source\repos\cw2\cw21_translated\x64\Debug\cw21.exe

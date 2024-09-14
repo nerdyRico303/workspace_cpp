@@ -1,0 +1,4 @@
+stat	user_name	pass	phone	address
+Staff	admin123	123456	0512-25634500	Taicang
+Teacher	laoshi321	124578	0512-25634578	Suzhou
+Student	xuesheng666	6660666	13654892541	Indonesia
