@@ -21,5 +21,6 @@ A classic management program to store and retrieve information within an educati
   - Administrator can add, modify, and delete module information in the module table, including module ID, module name, use name, use category, and use grades;
   - Administrator can publish or retrieve module grades on the module interface.
 
+---
 
 2. Eight-Queen Solution
