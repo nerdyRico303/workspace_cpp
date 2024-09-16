@@ -1,6 +1,3 @@
-# About workspace_cpp
-Repository created to save all projects related to C++.
-
 ## Project summary:
 1. School Data Management System
 A classic management program to store and retrieve information within an education stakeholder. The system covers three categories of personnel: academic staff, module teachers, and students, as well as functions such as student object, teacher object, and staff object. The following is a detailed description of each role's functionality.
