@@ -29,4 +29,4 @@ Preambule: Eight-Queen problem is a classic question, where the goal is to place
 
 The main goal of this c++ program is to solve the main Eight Queen problem. 
 
-However, the program is also fleshed out so that it is able to solve n-queen problem (prerequisite: n>0 is a must).
+However, the program is also fleshed out so that it is able to solve n-queen questions (prerequisite: n>0 is a must).
