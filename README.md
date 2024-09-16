@@ -24,3 +24,9 @@ A classic management program to store and retrieve information within an educati
 ---
 
 2. Eight-Queen Solution
+
+Preambule: Eight-Queen problem is a classic question, where the goal is to place eight queens on an 8x8 chessboard in such a way that no two queens threaten each other.
+
+The main goal of this c++ program is to solve the main Eight Queen problem. 
+
+However, the program is also fleshed out so that it is able to solve n-queen problem (prerequisite: n>0 is a must).
